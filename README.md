@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 My name is Adama Sawadogo and I am an electrical engineering student with lots of interests in web development and computer science. I am currently working on an awesome e-learning platform that will revolutionize over-the-web learning.
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=satansdeer&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=satansdeer&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adamadev21&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adamadev21&theme=tokyonight" />
 </p>
 - 👯 I’m looking to collaborate on Data management and algorythms
 - 🤔 I’m looking for help with ...
